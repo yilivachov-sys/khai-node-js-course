@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yilivachov-sys/khai-node-js-course/issues"
   },
-  "homepage": "https://github.com/yilivachov-sys/khai-node-js-course#readme"
+  "homepage": "https://github.com/yilivachov-sys/khai-node-js-course#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
