@@ -1,5 +1,5 @@
 const express = require('express');
-const products = require('./products');
+const products = require('../products');
 const { blockSpecialBrand } = require('./middleware');
 
 const router = express.Router();
