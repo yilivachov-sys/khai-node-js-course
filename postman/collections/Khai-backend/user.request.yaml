@@ -1,0 +1,5 @@
+$kind: http-request
+name: user
+url: ""
+method: GET
+order: 3929281486809617
