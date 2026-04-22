@@ -1,0 +1,16 @@
+$kind: http-request
+name: products
+url: http://localhost:3000/products
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"Pixel 4\",\r
+
+    \    \"brand\": \"Google\",\r
+
+    \    \"userId\": 1\r
+
+    }"
+order: 4492034938724971

@@ -1,0 +1,5 @@
+$kind: http-request
+url: http://localhost:3000/users/1/products
+method: GET
+examples: .resources/user-products.resources/examples
+order: 2340435241114319
